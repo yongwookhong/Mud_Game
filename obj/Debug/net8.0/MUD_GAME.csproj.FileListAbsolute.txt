@@ -1,0 +1,14 @@
+C:\TeamSparta\MUD_GAME\MUD_GAME\bin\Debug\net8.0\MUD_GAME.exe
+C:\TeamSparta\MUD_GAME\MUD_GAME\bin\Debug\net8.0\MUD_GAME.deps.json
+C:\TeamSparta\MUD_GAME\MUD_GAME\bin\Debug\net8.0\MUD_GAME.runtimeconfig.json
+C:\TeamSparta\MUD_GAME\MUD_GAME\bin\Debug\net8.0\MUD_GAME.dll
+C:\TeamSparta\MUD_GAME\MUD_GAME\bin\Debug\net8.0\MUD_GAME.pdb
+C:\TeamSparta\MUD_GAME\MUD_GAME\obj\Debug\net8.0\MUD_GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\TeamSparta\MUD_GAME\MUD_GAME\obj\Debug\net8.0\MUD_GAME.AssemblyInfoInputs.cache
+C:\TeamSparta\MUD_GAME\MUD_GAME\obj\Debug\net8.0\MUD_GAME.AssemblyInfo.cs
+C:\TeamSparta\MUD_GAME\MUD_GAME\obj\Debug\net8.0\MUD_GAME.csproj.CoreCompileInputs.cache
+C:\TeamSparta\MUD_GAME\MUD_GAME\obj\Debug\net8.0\MUD_GAME.dll
+C:\TeamSparta\MUD_GAME\MUD_GAME\obj\Debug\net8.0\refint\MUD_GAME.dll
+C:\TeamSparta\MUD_GAME\MUD_GAME\obj\Debug\net8.0\MUD_GAME.pdb
+C:\TeamSparta\MUD_GAME\MUD_GAME\obj\Debug\net8.0\MUD_GAME.genruntimeconfig.cache
+C:\TeamSparta\MUD_GAME\MUD_GAME\obj\Debug\net8.0\ref\MUD_GAME.dll
